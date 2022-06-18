@@ -1,4 +1,4 @@
-# opencv-python
+# opencv-python [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 A curated list of all awesome opencv application created by Agneay B Nair
 
 ![issues](https://img.shields.io/github/issues/agneay/opencv-python?style=for-the-badge)
